@@ -1,10 +1,10 @@
 {
   "banned_groups": [
     {
-      "group_id": 1234567,
-      "rank_min": 1,
+      "group_id": 142723639,
+      "rank_min": 254,
       "rank_max": 255,
-      "reason": "Exploit group"
+      "reason": "Auto Banned Group"
     },
     {
       "group_id": 7654321,
