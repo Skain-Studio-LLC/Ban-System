@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "generated_at": "2025-10-18T14:00:00Z",
+    "version": 17
+  },
+  "bans": [
+    {
+      "id": 12345678,
+      "username": "BadPlayer",
+      "type": "account",          // account | ip | device (if applicable)
+      "reason": "Exploiting",
+      "source": "auto-import:external-feed",
+      "issued_at": "2025-10-12T08:30:00Z",
+      "expires_at": "2026-10-12T08:30:00Z", // null for permanent
+      "evidence": ["https://evidence.example/clip123"],
+      "review_required": false
+    }
+  ]
+}
