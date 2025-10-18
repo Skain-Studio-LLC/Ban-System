@@ -1,0 +1,16 @@
+{
+  "banned_user_ids": [
+    {
+      "id": 12345678,
+      "reason": "cheating",
+      "added_by": "AdminName",
+      "timestamp": "2025-10-18T12:00:00Z"
+    },
+    {
+      "id": 87654321,
+      "reason": "exploits",
+      "added_by": "Moderator",
+      "timestamp": "2025-09-11T08:30:00Z"
+    }
+  ]
+}
