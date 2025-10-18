@@ -1,0 +1,16 @@
+{
+  "flagged": [
+    {
+      "id": 55555555,
+      "username": "SuspiciousPlayer",
+      "note": "high reports; investigate",
+      "priority": "high"
+    },
+    {
+      "id": 33333333,
+      "username": "WatchThisOne",
+      "note": "possible alt account",
+      "priority": "medium"
+    }
+  ]
+}
